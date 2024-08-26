@@ -61,4 +61,5 @@ function FlightSearch() {
         </div>
     );
 }
+
 export default FlightSearch;
